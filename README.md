@@ -7,5 +7,8 @@
 - 📫 How to reach me: Discord: jusuf#8562
 - 😄 Pronouns: idk
 
+2019 - Microsoft MTA 98-349
+2021 - CompTIA ITF+
+
 [![vmo64's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmo64)](https://github.com/anuraghazra/github-readme-stats)
 
