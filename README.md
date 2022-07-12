@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on SuperStorage, AtomHost
 - 🌱 I’m currently learning PHP
 - 💬 Ask me about anything hosting related
-- 📫 How to reach me: Discord: jusuf#8562
-- 😄 Pronouns: idk
+- 📫 How to reach me: Discord: NGX#8562
 
 - 2019 - Microsoft MTA 98-349
 - 2021 - CompTIA ITF+
