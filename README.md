@@ -11,5 +11,4 @@
 
 [![vmo64's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmo64)](https://github.com/anuraghazra/github-readme-stats)
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
+
